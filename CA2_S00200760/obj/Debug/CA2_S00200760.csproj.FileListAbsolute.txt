@@ -1,0 +1,15 @@
+C:\College\Object Orientated Programming\CA2_S00200760\bin\Debug\CA2_S00200760.exe.config
+C:\College\Object Orientated Programming\CA2_S00200760\bin\Debug\CA2_S00200760.exe
+C:\College\Object Orientated Programming\CA2_S00200760\bin\Debug\CA2_S00200760.pdb
+C:\College\Object Orientated Programming\CA2_S00200760\obj\Debug\CA2_S00200760.csprojAssemblyReference.cache
+C:\College\Object Orientated Programming\CA2_S00200760\obj\Debug\MainWindow.g.cs
+C:\College\Object Orientated Programming\CA2_S00200760\obj\Debug\App.g.cs
+C:\College\Object Orientated Programming\CA2_S00200760\obj\Debug\CA2_S00200760_MarkupCompile.cache
+C:\College\Object Orientated Programming\CA2_S00200760\obj\Debug\CA2_S00200760_MarkupCompile.lref
+C:\College\Object Orientated Programming\CA2_S00200760\obj\Debug\MainWindow.baml
+C:\College\Object Orientated Programming\CA2_S00200760\obj\Debug\CA2_S00200760.g.resources
+C:\College\Object Orientated Programming\CA2_S00200760\obj\Debug\CA2_S00200760.Properties.Resources.resources
+C:\College\Object Orientated Programming\CA2_S00200760\obj\Debug\CA2_S00200760.csproj.GenerateResource.cache
+C:\College\Object Orientated Programming\CA2_S00200760\obj\Debug\CA2_S00200760.csproj.CoreCompileInputs.cache
+C:\College\Object Orientated Programming\CA2_S00200760\obj\Debug\CA2_S00200760.exe
+C:\College\Object Orientated Programming\CA2_S00200760\obj\Debug\CA2_S00200760.pdb
